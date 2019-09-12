@@ -1,0 +1,20 @@
+{
+  "title": "5x5 Easy",
+  "width": 5,
+  "height": 5,
+  "lights": [
+    {"row": 1, "col": 1},
+    {"row": 2, "col": 4},
+    {"row": 3, "col": 2},
+    {"row": 4, "col": 1},
+    {"row": 5, "col": 3},
+    {"row": 5, "col": 5}
+  ],
+  "walls": [
+    {"row": 1, "col": 5, "value": 0},
+    {"row": 2, "col": 1, "value": null},
+    {"row": 2, "col": 3, "value": 1},
+    {"row": 3, "col": 1, "value": 2},
+    {"row": 5, "col": 4, "value": null}
+  ]
+}
